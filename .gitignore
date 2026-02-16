@@ -1,0 +1,13 @@
+build/
+bin/
+external/
+.vscode/
+.idea/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.log
+
